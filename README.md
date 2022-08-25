@@ -15,3 +15,10 @@
   <img width="40px" alt="alvaro-html" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img width="40px" alt="alvaro-css" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 </div>
+
+##
+  
+<div>
+  <a href="https://www.linkedin.com/in/alvaro-romario-cavalcante-alencar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</div>
