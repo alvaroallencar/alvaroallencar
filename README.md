@@ -1,6 +1,6 @@
 ## Hi there! I'm Álvaro Alencar!
 
-🧑‍💻 Automation Engineer an Software Developer
+🧑‍💻 Automation Engineer and Software Developer
 
 🧠 There is always something new to learn!
 
