@@ -8,7 +8,7 @@
 
 ##
   
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img width="40px" alt="alvaro-javascript" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="40px" alt="alvaro-typescript" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img width="40px" alt="alvaro-react" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
