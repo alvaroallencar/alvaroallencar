@@ -1,4 +1,4 @@
-## Hi there! 😀
+## Hi there,
 
 🧑‍💻 I'm Álvaro Alencar, Automation Engineer and Software Developer
 
