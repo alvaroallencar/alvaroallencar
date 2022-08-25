@@ -2,7 +2,7 @@
 
 🧑‍💻 I'm Álvaro Alencar, Automation Engineer and Software Developer.
 
-💡 I fascinated by how technology changes our lives for the better
+💡 I fascinated by how technology changes our lives for the better!
 
 🧠 There is always something new to learn!
 
