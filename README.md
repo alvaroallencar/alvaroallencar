@@ -1,4 +1,8 @@
-## Hi there! I'm Álvaro Alencar, Software Developer and Automation Engineer!
+## Hi there! I'm Álvaro Alencar!
+
+🧑‍💻 Software Developer
+
+🤖 Automation Engineer
 
 <div align="center">
   <a href="https://github.com/alvaroallencar">
