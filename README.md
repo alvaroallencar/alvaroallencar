@@ -1,4 +1,4 @@
-## Hi there! I'm Álvaro Alencar, automation engineer migrating to software development!
+## Hi there! I'm Álvaro Alencar, Software Developer and Automation Engineer!
 
 <div align="center">
   <a href="https://github.com/alvaroallencar">
