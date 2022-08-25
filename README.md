@@ -1,4 +1,4 @@
-## Hi there,
+## Hi there, welcome to my GitHub profile! 😀
 
 🧑‍💻 I'm Álvaro Alencar, Automation Engineer and Software Developer.
 
