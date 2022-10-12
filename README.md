@@ -1,6 +1,6 @@
 ## Hi there, welcome to my GitHub profile! :)
 
-🧑‍💻 I'm Álvaro Alencar, Automation Engineer and Software Developer.
+🧑‍💻 I'm Álvaro Alencar, Software Developer and Automation Engineer.
 
 💡 I'm fascinated by how technology changes our lives for the better!
 
