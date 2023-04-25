@@ -24,7 +24,7 @@
     <img width="40px" alt="alvaro-python" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="40px" alt="alvaro-nodejs" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
     <img width="40px" alt="alvaro-nestjs" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-    <img width="40px" alt="alvaro-postgresql" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+    <img width="40px" alt="alvaro-postgresql" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
     <img width="40px" alt="alvaro-mongodb" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
           
           
