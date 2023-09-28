@@ -1,6 +1,6 @@
 ## Hi there, welcome to my GitHub profile! :)
 
-🧑‍💻 I'm Álvaro Alencar, Full Stack Developer and and Control and Automation Engineer.
+🧑‍💻 I'm Álvaro Alencar, Full Stack Software Engineer and and Control and Automation Engineer.
 
 💡 I'm fascinated by how technology changes our lives for the better!
 
